@@ -9179,9 +9179,9 @@ tinyEmergency.showEmergency = function($) {
   }
 };
 
-tinyEmergency.init();
+//tinyEmergency.init();
 ;
-(function($) {
+/*(function($) {
 	
 	$(document).ready(function() {
 		var setCookie = function(cookieName,cookieValue,nDays) {
@@ -9226,7 +9226,7 @@ tinyEmergency.init();
 		
 		
 	});
-})(jQuery);;
+})(jQuery);;*/
 // $Id: autocomplete.js,v 1.23 2008/01/04 11:53:21 goba Exp $
 
 /**

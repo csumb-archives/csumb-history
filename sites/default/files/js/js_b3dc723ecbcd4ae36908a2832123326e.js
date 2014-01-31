@@ -5660,7 +5660,7 @@ tinyEmergency.showEmergency = function($) {
     setTimeout('tinyEmergency.showEmergency($);', window._tinyEmergencyReload);
   }
 };
-
+/*
 tinyEmergency.init();
 ;
 (function($) {
@@ -5708,7 +5708,7 @@ tinyEmergency.init();
 		
 		
 	});
-})(jQuery);;
+})(jQuery);;*/
 // $Id: autocomplete.js,v 1.23 2008/01/04 11:53:21 goba Exp $
 
 /**
